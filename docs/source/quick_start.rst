@@ -1,4 +1,4 @@
-
+import_bot
 ===========
 Quick start
 ===========
@@ -7,7 +7,7 @@ Quick start
    :description: Quickstart guide
    :keywords: ptba, pytba, pyTelegramBotAPI, quickstart, guide
 
-Synchronous TeleBot
+Synchronous TeleBot bot = telebot.TeleBot('BOT-TOKEN')
 -------------------
 .. literalinclude:: ../../examples/echo_bot.py
     :language: python
